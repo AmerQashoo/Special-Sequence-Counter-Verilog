@@ -1,0 +1,19 @@
+# Active-HDL generated simulation and workspace files
+*.asdb
+*.awc
+*.wsw
+*.log
+*.bak
+*.drc
+*.set
+*.cfg
+*.ini
+*.mgf
+*.lib
+*.htm
+
+# General simulator output
+*.vcd
+*.fst
+*.vvp
+work/
